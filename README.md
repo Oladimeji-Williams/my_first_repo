@@ -1,2 +1,2 @@
-# my first repo, I just wanna learn
+# my first repo, I just learn
 Thank God I am now learning
